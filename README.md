@@ -25,6 +25,17 @@ Currently seeking a fully or substantially funded, research-oriented master's de
 
 `C#` `.NET` `ASP.NET Core` `Angular` `Python` `PyTorch` `TypeScript` `SQL` `Microsoft Entra ID` `Microsoft Graph` `Docker`
 
+#### GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaniAdamou14&show_icons=true&hide_rank=true&hide_border=true&count_private=false&theme=github_dark_dimmed">
+  <img alt="SaniAdamou14's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SaniAdamou14&show_icons=true&hide_rank=true&hide_border=true&count_private=false&theme=default" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniAdamou14&layout=compact&hide_border=true&theme=github_dark_dimmed">
+  <img alt="SaniAdamou14's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniAdamou14&layout=compact&hide_border=true&theme=default" />
+</picture>
+
 #### Elsewhere
 
 [Portfolio](https://saniadamou14.github.io) · [LinkedIn](https://www.linkedin.com/in/sani-adamou/) · [Email](mailto:saniadamou778@gmail.com)

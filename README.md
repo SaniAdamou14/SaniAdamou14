@@ -19,7 +19,7 @@ Currently seeking a fully or substantially funded, research-oriented master's de
 
 - **[Aegis-ID](https://github.com/SaniAdamou14/Aegis-ID)** - Read-only security posture auditor for Microsoft Entra ID: 15 IAM controls mapped to the CIS Microsoft 365 Benchmark and MITRE ATT&CK, CLI + Angular dashboard, 94 automated tests.
 - **[AuthGuard](https://github.com/SaniAdamou14/AuthGuard)** - From-scratch ASP.NET Core + Angular auth system: Argon2id hashing with HIBP breach checks, rotating JWT refresh tokens with reuse detection, TOTP MFA, RBAC, full audit log.
-- **[AuthBench](https://github.com/SaniAdamou14/AuthBench)** - Leak-free, alert-budget-constrained benchmark asking how much deep learning actually buys you in authentication-log anomaly detection, on 1B+ real LANL events.
+- **[AuthBench](https://github.com/SaniAdamou14/AuthBench)** - Leak-free, alert-budget-constrained benchmark of what published anomaly-detection performance becomes under a realistic daily alert budget, on real LANL authentication logs (39 red-team campaigns; preprint on Zenodo).
 
 #### Toolbox
 

@@ -1,30 +1,13 @@
-### Mahamane Sani Adamou Mahamane
+# Mahamane Sani Adamou Mahamane
 
-Full-stack developer and B.S. Computer Science candidate (3.97/4.00 GPA), building secure, production software while researching AI, cybersecurity, and distributed systems.
+Computer science (B.S., GPA 3.97/4.00, expected January 2027), based in Niamey, Niger. Software developer at Gabera Software Solutions.
 
-Currently seeking a fully or substantially funded, research-oriented master's degree starting 2027, in cybersecurity, AI, software engineering, data science, or distributed/cloud systems.
+I study how security detectors are **evaluated** under real operating constraints: a limited number of alerts per day, imperfect labels, and data that cannot always be shared. My main project is [AuthBench](https://github.com/SaniAdamou14/AuthBench), an open evaluation harness for authentication anomaly detectors, built as sole author on the LANL data. On 369 million logon events and 162 red-team campaigns, none of ten detectors finds any campaign within 10 alerts per day. The preprint is not yet peer reviewed ([v2, Zenodo](https://doi.org/10.5281/zenodo.23687498)).
 
-**Focus areas:** identity & access management, applied security engineering, and ML for security (anomaly detection, RAG, reinforcement learning).
+**Research interests:** reproducible evaluation of authentication and intrusion-detection systems, imperfect ground truth, privacy-preserving collaboration between organizations.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Looking for:** funded graduate studies in computer science (master's or PhD, security and privacy), starting in 2027.
 
-#### Featured projects
+**Also built:** [AuthGuard](https://github.com/SaniAdamou14/AuthGuard) (authentication system from scratch, ASP.NET Core and Angular, 137 tests) and [Aegis-ID](https://github.com/SaniAdamou14/Aegis-ID) (read-only Microsoft Entra ID posture auditor, 15 IAM controls, 94 tests).
 
-- **[Aegis-ID](https://github.com/SaniAdamou14/Aegis-ID)** - Read-only security posture auditor for Microsoft Entra ID: 15 IAM controls mapped to the CIS Microsoft 365 Benchmark and MITRE ATT&CK, CLI + Angular dashboard, 94 automated tests.
-- **[AuthGuard](https://github.com/SaniAdamou14/AuthGuard)** - From-scratch ASP.NET Core + Angular auth system: Argon2id hashing with HIBP breach checks, rotating JWT refresh tokens with reuse detection, TOTP MFA, RBAC, full audit log.
-- **[AuthBench](https://github.com/SaniAdamou14/AuthBench)** - Leak-free, alert-budget-constrained benchmark of what published anomaly-detection performance becomes under a realistic daily alert budget, on real LANL authentication logs (39 red-team campaigns; preprint on Zenodo).
-
-#### Toolbox
-
-`C#` `.NET` `ASP.NET Core` `Angular` `Python` `PyTorch` `TypeScript` `SQL` `Microsoft Entra ID` `Microsoft Graph` `Docker`
-
-#### Elsewhere
-
-[Portfolio](https://saniadamou14.github.io) · [LinkedIn](https://www.linkedin.com/in/sani-adamou/) · [Email](mailto:saniadamou778@gmail.com)
+[Portfolio](https://saniadamou14.github.io) · [LinkedIn](https://www.linkedin.com/in/sani-adamou/) · [ORCID](https://orcid.org/0009-0001-5561-753X) · saniadamou778@gmail.com
